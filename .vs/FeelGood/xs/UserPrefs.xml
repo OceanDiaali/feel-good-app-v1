@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{58CF542A-6046-4B57-B5B7-320C7B8483F6}|Default">
+  <MonoDevelop.Ide.ItemProperties.FeelGood.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.ItemProperties.FeelGood.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FeelGood/MainPage.xaml">
+    <Files>
+      <File FileName="FeelGood/MainPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="FeelGood/MainPage.xaml" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FeelGood" expanded="True">
+            <Node name="FeelGood" expanded="True">
+              <Node name="MainPage.xaml" expanded="True" selected="True" />
+            </Node>
+            <Node name="FeelGood.Android" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.FeelGood FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
